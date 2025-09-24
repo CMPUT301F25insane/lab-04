@@ -4,4 +4,7 @@ public abstract class Shape {
     private String color = "burgundy";
     private int x;
     private int y;
+
+    String color = "green";
+
 }
